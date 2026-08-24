@@ -61,6 +61,25 @@ CodeFusion 2K26 is a flagship national-level hackathon supported by Microsoft, b
 **Project:** AEGIS (Autonomous Emergency Geospatial Intelligence System)
 **Description:** AEGIS is an AI-powered disaster response platform designed for private NGOs, humanitarian organizations, weather forecasters, and independent relief coordinators who operate outside government systems. It provides enterprise-grade situational awareness through a rotating 3D globe that tracks 26+ live disasters from NASA, USGS, and ReliefWeb, while running physics-based simulations for five hazard types (flood, earthquake, wildfire, cyclone, chemical release) with 120-minute predictive timelines. Organizations can model evacuation scenarios for their specific facilities—refugee camps, hospitals, distribution centers—using high-fidelity digital twins that calculate optimized routes considering real-time hazard spread and infrastructure damage. Built entirely on zero-cost infrastructure (Cloudflare Workers, MapLibre GL, OpenStreetMap), AEGIS delivers sub-20ms response times globally without subscriptions or API keys, democratizing sophisticated disaster intelligence for NGOs and community responders who are often first on the ground but lack access to expensive government-grade tools.
 
+## Event Statistics
+- 📝 **4000+ Students** registered from top universities across the nation.
+- 👨‍🎓 **1000+ Students** qualified for the intense offline grand finale.
+- 🚀 **290+ Teams** competed in the offline round, bringing diverse skill sets and innovative ideas to the table.
+- ⏱️ **36 Hours** of non-stop coding, problem-solving, and collaboration.
+- 🏆 **₹2,00,000+** distributed in prizes and exclusive swags.
+
+## What We Achieved
+- **Fostered Innovation:** Cultivated a vibrant ecosystem where students could transform their raw ideas into working prototypes.
+- **Seamless Execution:** Successfully orchestrated a massive 36-hour offline hackathon, ensuring continuous power, high-speed internet, and a comfortable environment for all participants.
+- **Industry Connection:** Bridged the gap between academia and the tech industry by bringing in esteemed mentors and judges who provided real-world feedback and guidance.
+- **Impactful Solutions:** Witnessed the development of groundbreaking projects addressing critical challenges in healthcare, disaster management, Web3, and IoT. 
+
+## What We Learned
+- **Power of Collaboration:** Observed how cross-functional teams outperformed others, highlighting the importance of blending design, development, and business skills.
+- **Adaptability under Pressure:** Learned that the ability to pivot and adapt when facing technical roadblocks during a tight 36-hour deadline is a crucial skill for developers.
+- **Scaling Tech Events:** Gained immense experience in managing logistics, scaling infrastructure, and coordinating a large-scale national event effectively.
+- **Unleashing Potential:** Realized that when young developers are provided with the right platform, resources, and mentorship, their potential to create world-changing solutions is limitless.
+
 ## Event Gallery
 <div align="center">
   <img src="images/DSCF9336.JPG" width="45%" style="margin: 5px;" />
@@ -73,6 +92,15 @@ CodeFusion 2K26 is a flagship national-level hackathon supported by Microsoft, b
   <img src="images/IMG_3736.JPG" width="45%" style="margin: 5px;" />
   <img src="images/IMG_4690.JPG" width="45%" style="margin: 5px;" />
   <img src="images/IMG_4770.JPG" width="45%" style="margin: 5px;" />
+  <img src="images/IMG_4891.JPG" width="45%" style="margin: 5px;" />
+  <img src="images/IMG_4897.JPG" width="45%" style="margin: 5px;" />
+  <img src="images/IMG_4929.JPG" width="45%" style="margin: 5px;" />
+  <img src="images/IMG_4936.JPG" width="45%" style="margin: 5px;" />
+  <img src="images/IMG_4940.JPG" width="45%" style="margin: 5px;" />
+  <img src="images/IMG_4942.JPG" width="45%" style="margin: 5px;" />
+  <img src="images/IMG_4947.JPG" width="45%" style="margin: 5px;" />
+  <img src="images/IMG_4951.JPG" width="45%" style="margin: 5px;" />
+  <img src="images/IMG_4952.JPG" width="45%" style="margin: 5px;" />
 </div>
 
 ---
